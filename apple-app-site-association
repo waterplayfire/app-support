@@ -1,10 +1,10 @@
 {
 	"applinks": {
-		"apps": []
+		"apps": [],
 		"details": [
 			{
 				"appID": "A39S2QJZ4S.com.lyycsy.com",
-				"paths": ["/tqsy/*"]
+				"paths": ["/sdk/*"]
 			}
 		]
 	}
