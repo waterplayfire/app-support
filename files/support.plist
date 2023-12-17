@@ -6,23 +6,5 @@
 	<string>0.7.1</string>
 	<key>launchAd</key>
 	<string>ca-app-pub-9068499751581929/6329952435</string>
-	<key>helps</key>
-	<array>
-		<dict>
-			<key>title</key>
-			<string>关于嗅探</string>
-			<key>content</key>
-			<string>资源嗅探</string>
-			<key>children</key>
-			<array>
-				<dict>
-					<key>title</key>
-					<string>1. 嗅探失败</string>
-					<key>content</key>
-					<string>嗅探失败就失败嘛，这不是很正常嘛</string>
-				</dict>
-			</array>
-		</dict>
-	</array>
 </dict>
 </plist>
