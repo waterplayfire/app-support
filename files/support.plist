@@ -68,6 +68,41 @@
 				</dict>
 			</array>
 		</dict>
+		<dict>
+			<key>title</key>
+			<string>关于下载功能</string>
+			<key>content</key>
+			<string>想要加入下载功能主要源于网络资源资源播放经常卡顿体验极差，因此为了又个流畅的观影环境给《漫客》添加了下载功能，也因此《漫客》并没有针对直播视频单独开发录播功能。</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>为什么会下载失败</string>
+					<key>content</key>
+					<string>出了基本的网络问题外，其中最大的原因是大量的网络资源存在时效性。下载主要异常包括但不限于：
+1.站点变更或异常导致下载失败；
+2.链接自带时效限制，导致中断App后再次启动时下载失败；
+3.资源访问受限，或极度缓慢；
+4.资源经过特殊加密（此时通常为可下载，或只能下载部分内容导致无法正常播放）；
+5.本人拙劣的技术问题(由于网络资源繁杂，下载功能受限于我自己接触到的资源种类，望各位体谅)</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>关于下载存储问题</string>
+					<key>content</key>
+					<string>1. 下载中的文件被存储在临时目录，超过一定实现文件丢失无法继续下载，只能重新开始任务；
+2. 完成下载的资源并非永久存储，当手机剩余存储过小时，系统可能会清除缓存；
+3. 受到相关到政策限制，谨慎考虑后《漫客》不提供导出功能</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>关于后台下载</string>
+					<key>content</key>
+					<string>1. 《漫客》默认支持后台下载（如果下载时有需要，请不要杀死App）；
+2. 后台下载可能遇到上述问题，导致资源下载失败或者丢失属于正常现象；</string>
+				</dict>
+			</array>
+		</dict>
 	</array>
 </dict>
 </plist>
