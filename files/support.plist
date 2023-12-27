@@ -58,7 +58,7 @@
 					<key>title</key>
 					<string>广告选型</string>
 					<key>content</key>
-					<string>相比其他平台广告我个人更喜欢AdMob的广告洁净的UI风格，因此选取AdMob作为《漫客》的广告SDK。选择开屏广告是由于我希望用户在启动时可以稍侯一会，给《漫客》一点数据同步与加载的时间(基于iCloud)。</string>
+					<string>相比其他平台广告我个人更喜欢AdMob洁净的UI风格，因此选取AdMob作为《漫客》的广告SDK。选择开屏广告是由于我希望用户在启动时可以稍侯一会，给《漫客》一点数据同步与加载的时间(基于iCloud)。</string>
 				</dict>
 				<dict>
 					<key>title</key>
