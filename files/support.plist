@@ -6,8 +6,6 @@
 	<string>0.7.1</string>
 	<key>launchAd</key>
 	<string>ca-app-pub-9068499751581929/9408343890</string>
-	<key>has</key>
-	<string></string>
 	<key>helps</key>
 	<array>
 		<dict>
@@ -151,6 +149,25 @@ PS：当下推荐需要去广告的用户选择【年卡】(推介优惠期间�
 2. 后台下载可能遇到上述问题，导致资源下载失败或者丢失属于正常现象；</string>
 				</dict>
 			</array>
+		</dict>
+	</array>
+	<key>feedbacks</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>B站留言</string>
+			<key>image</key>
+			<string>icon_bilibili</string>
+			<key>link</key>
+			<string>https://b23.tv/iOY5zzA</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>QQ留言</string>
+			<key>image</key>
+			<string>icon_qq</string>
+			<key>link</key>
+			<string>mqq://im/chat?chat_type=wpa&amp;uin=785013820&amp;version=1&amp;src_type=web</string>
 		</dict>
 	</array>
 </dict>
