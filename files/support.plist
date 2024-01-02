@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>version</key>
-	<string>0.7.1</string>
+	<string>0.7.3</string>
 	<key>launchAd</key>
 	<string>ca-app-pub-9068499751581929/9408343890</string>
 	<key>helps</key>
@@ -153,14 +153,6 @@ PS：当下推荐需要去广告的用户选择【年卡】(推介优惠期间�
 	</array>
 	<key>feedbacks</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>B站留言</string>
-			<key>image</key>
-			<string>icon_bilibili</string>
-			<key>link</key>
-			<string>https://b23.tv/iOY5zzA</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>QQ留言</string>
