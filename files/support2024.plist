@@ -18,7 +18,16 @@
 				<key>title</key>
 				<string>月卡·新春免费体验</string>
 				<key>content</key>
-				<string>月卡·新春免费体验</string>
+				<string></string>
+				<key>children</key>
+				<array>
+					<dict>
+						<key>content</key>
+						<string>https://apps.apple.com/redeem?ctx=offercodes&amp;id=6446447265&amp;code=6XRLLYN8AFEHW6P3NE</string>
+						<key>title</key>
+						<string>领取新年礼品卡</string>
+					</dict>
+				</array>
 			</dict>
 		</array>
 	</dict>
