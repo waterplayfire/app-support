@@ -13,7 +13,12 @@
 		<key>time</key>
 		<integer>0</integer>
 		<key>messages</key>
-		<dict/>
+		<dict>
+			<key>title</key>
+			<string>月卡·新春免费体验</string>
+			<key>content</key>
+			<string>月卡·新春免费体验</string>
+		</dict>
 	</dict>
 	<key>helps</key>
 	<array>
