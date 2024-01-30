@@ -8,6 +8,13 @@
 	<string>ca-app-pub-9068499751581929/9408343890</string>
 	<key>activityTitle</key>
 	<string>新年特惠</string>
+	<key>news</key>
+	<dict>
+		<key>time</key>
+		<integer>0</integer>
+		<key>messages</key>
+		<dict/>
+	</dict>
 	<key>helps</key>
 	<array>
 		<dict>
