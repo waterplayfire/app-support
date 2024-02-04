@@ -6,31 +6,6 @@
 	<string>0.8.3</string>
 	<key>launchAd</key>
 	<string>ca-app-pub-9068499751581929/9408343890</string>
-	<key>activityTitle</key>
-	<string>新年特惠</string>
-	<key>news</key>
-	<dict>
-		<key>time</key>
-		<integer>0</integer>
-		<key>messages</key>
-		<array>
-			<dict>
-				<key>title</key>
-				<string>月卡·新春免费体验</string>
-				<key>content</key>
-				<string></string>
-				<key>children</key>
-				<array>
-					<dict>
-						<key>content</key>
-						<string>https://apps.apple.com/redeem?ctx=offercodes&amp;id=6446447265&amp;code=2024GOODLUCK</string>
-						<key>title</key>
-						<string>领取新年礼品卡</string>
-					</dict>
-				</array>
-			</dict>
-		</array>
-	</dict>
 	<key>helps</key>
 	<array>
 		<dict>
