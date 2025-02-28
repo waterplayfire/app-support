@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>version</key>
-	<string>0.9.5</string>
+	<string>0.9.6</string>
 	<key>launchAd</key>
 	<string>ca-app-pub-9068499751581929/9408343890</string>
+	<key>payment</key>
+	<integer>2</integer>
 	<key>helps</key>
 	<array>
 		<dict>
