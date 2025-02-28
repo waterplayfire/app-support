@@ -46,5 +46,21 @@
 			<string>mqq://im/chat?chat_type=wpa&amp;uin=785013820&amp;version=1&amp;src_type=web</string>
 		</dict>
 	</array>
+	<key>news</key>
+	<dict>
+		<key>title</key>
+		<string>消息中心</string>
+		<key>time</key>
+		<integer>2502281800</integer>
+		<key>messages</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>漫客内购调整</string>
+				<key>content</key>
+				<string>https://support.waterplayfire.club/files/html/changepro.html</string>
+			</dict>
+		</array>
+	</dict>
 </dict>
 </plist>
