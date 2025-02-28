@@ -24,28 +24,6 @@
 		</dict>
 		<dict>
 			<key>title</key>
-			<string>关于App中的广告</string>
-			<key>content</key>
-			<string>广告是《漫客》的唯一收入来源之一，而且只有开屏广告其他任何网页与视频中的广告与《漫客》没有任何关系。
- 收入微薄，喝杯茶而已😊希望能够理解。</string>
-			<key>children</key>
-			<array>
-				<dict>
-					<key>title</key>
-					<string>广告选型</string>
-					<key>content</key>
-					<string>相比其他平台广告我个人更喜欢AdMob洁净的UI风格，因此选取AdMob作为《漫客》的广告SDK。选择开屏广告是由于我希望用户在启动时可以稍侯一会，给《漫客》一点数据同步与加载的时间(基于iCloud)。</string>
-				</dict>
-				<dict>
-					<key>title</key>
-					<string>为什么不能付费去广告</string>
-					<key>content</key>
-					<string> 站在我个人的角度，我可以理解广告带来的负面效果，甚至会过滤掉很多用户。但由于《漫客》还处于缓慢的开发过程中，并且我希望所有用户能获取更全面的体验，因此之前并没有考虑任何付费项目。同时我更愿意相信多一丝耐心的你们能够给出更为客观与细致的建议帮助《漫客》变的更好。</string>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>title</key>
 			<string>关于下载功能</string>
 			<key>content</key>
 			<string>https://support.waterplayfire.club/files/html/download.html</string>
